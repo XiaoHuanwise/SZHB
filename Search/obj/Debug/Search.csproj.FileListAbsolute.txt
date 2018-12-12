@@ -1,0 +1,6 @@
+E:\XHH\SZHB\Search\bin\Debug\Search.exe
+E:\XHH\SZHB\Search\bin\Debug\Search.pdb
+E:\XHH\SZHB\Search\obj\Debug\Search.csprojAssemblyReference.cache
+E:\XHH\SZHB\Search\obj\Debug\Search.csproj.CoreCompileInputs.cache
+E:\XHH\SZHB\Search\obj\Debug\Search.exe
+E:\XHH\SZHB\Search\obj\Debug\Search.pdb
