@@ -8,8 +8,9 @@ namespace Search
 		{
 			string[] url = 
 				{
-					"https://www.baidu.com/s?ie=UTF-8&wd=", 
-					"http://dict.cnki.net/dict_result.aspx?searchword="
+					"https://www.baidu.com/s?ie=UTF-8&wd=", //百度
+					"http://dict.cnki.net/dict_result.aspx?searchword=", //术语翻译
+					"http://define.cnki.net/WebForms/WebDefines.aspx?searchword=" //学术定义
 				};
 			System.Diagnostics.Process.Start(url[num] + keyword);
 			return;
