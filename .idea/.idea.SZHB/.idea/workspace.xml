@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="857396e1-0c84-4692-bb76-8139fb521cee" name="Default Changelist" comment="添加了查错和注释">
+    <list default="true" id="857396e1-0c84-4692-bb76-8139fb521cee" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SZHB/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SZHB/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SZHB/ZB.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SZHB/ZB.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SZHB/bin/Debug/SZHB.exe" beforeDir="false" afterPath="$PROJECT_DIR$/SZHB/bin/Debug/SZHB.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SZHB/bin/Debug/SZHB.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SZHB/bin/Debug/SZHB.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SZHB/obj/Debug/SZHB.exe" beforeDir="false" afterPath="$PROJECT_DIR$/SZHB/obj/Debug/SZHB.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SZHB/obj/Debug/SZHB.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SZHB/obj/Debug/SZHB.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,13 +36,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="1154" />
+          <entry key="cs" value="1466" />
           <entry key="txt" value="91" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="1154" />
+          <entry key="C#" value="1466" />
           <entry key="PLAIN_TEXT" value="91" />
         </counts>
       </usages-collector>
@@ -64,17 +68,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SZHB/ZB.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            <state relative-caret-position="257">
+              <caret line="78" column="47" selection-start-line="78" selection-start-column="47" selection-end-line="78" selection-end-column="47" />
               <folding>
-                <marker date="1544783089711" expanded="false" signature="6:162" ph="..." />
-                <marker date="1544783089711" expanded="true" signature="178:2081" ph="{...}" />
-                <marker date="1544783089711" expanded="true" signature="210:2079" ph="{...}" />
-                <marker date="1544783089711" expanded="true" signature="254:634" ph="{...}" />
-                <marker date="1544783089711" expanded="false" signature="367:414" ph="{...}" />
-                <marker date="1544783089711" expanded="false" signature="885:1978" ph="{...}" />
-                <marker date="1544783089711" expanded="true" signature="908:1870" ph="{...}" />
-                <marker date="1544783089711" expanded="true" signature="1893:1931" ph="{...}" />
+                <marker date="1544798819786" expanded="false" signature="6:200" ph="..." />
+                <marker date="1544798819786" expanded="true" signature="216:2593" ph="{...}" />
+                <marker date="1544798819786" expanded="true" signature="248:2591" ph="{...}" />
+                <marker date="1544798819786" expanded="true" signature="292:720" ph="{...}" />
+                <marker date="1544798819786" expanded="false" signature="405:468" ph="{...}" />
+                <marker date="1544798819786" expanded="false" signature="971:2064" ph="{...}" />
+                <marker date="1544798819786" expanded="true" signature="994:1956" ph="{...}" />
+                <marker date="1544798819786" expanded="true" signature="1979:2017" ph="{...}" />
+                <marker date="1544798819786" expanded="true" signature="2067:2203" ph="/* --------------------------------------------------------------------------------------- ... */" />
+                <marker date="1544798819786" expanded="true" signature="2251:2540" ph="{...}" />
+                <marker date="1544798819786" expanded="true" signature="2391:2514" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -108,8 +115,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="169" />
-    <option name="y" value="8" />
+    <option name="x" value="223" />
+    <option name="y" value="9" />
     <option name="width" value="1400" />
     <option name="height" value="820" />
   </component>
@@ -217,7 +224,7 @@
       <option name="presentableId" value="Default" />
       <updated>1544625011125</updated>
       <workItem from="1544625014890" duration="12361000" />
-      <workItem from="1544781949106" duration="1134000" />
+      <workItem from="1544781949106" duration="2764000" />
     </task>
     <task id="LOCAL-00001" summary="添加了打开术语翻译网站和多网站选项的功能">
       <created>1544678860052</created>
@@ -240,11 +247,18 @@
       <option name="project" value="LOCAL" />
       <updated>1544768328262</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="添加了查错和注释">
+      <created>1544783111965</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1544783111965</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13495000" />
+    <option name="totallyTimeSpent" value="15125000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -256,7 +270,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="169" y="8" width="1400" height="820" extended-state="0" />
+    <frame x="223" y="9" width="1400" height="820" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25373134" />
@@ -297,7 +311,8 @@
     <MESSAGE value="添加了打开术语翻译网站和多网站选项的功能" />
     <MESSAGE value="研究爬虫到一半" />
     <MESSAGE value="成功读到XRH中的rate，并且分割出了zh的部分，但是zh中的数据好像有点不对，有待进一步研究！" />
-    <option name="LAST_COMMIT_MESSAGE" value="成功读到XRH中的rate，并且分割出了zh的部分，但是zh中的数据好像有点不对，有待进一步研究！" />
+    <MESSAGE value="添加了查错和注释" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加了查错和注释" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -327,17 +342,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SZHB/ZB.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        <state relative-caret-position="257">
+          <caret line="78" column="47" selection-start-line="78" selection-start-column="47" selection-end-line="78" selection-end-column="47" />
           <folding>
-            <marker date="1544783089711" expanded="false" signature="6:162" ph="..." />
-            <marker date="1544783089711" expanded="true" signature="178:2081" ph="{...}" />
-            <marker date="1544783089711" expanded="true" signature="210:2079" ph="{...}" />
-            <marker date="1544783089711" expanded="true" signature="254:634" ph="{...}" />
-            <marker date="1544783089711" expanded="false" signature="367:414" ph="{...}" />
-            <marker date="1544783089711" expanded="false" signature="885:1978" ph="{...}" />
-            <marker date="1544783089711" expanded="true" signature="908:1870" ph="{...}" />
-            <marker date="1544783089711" expanded="true" signature="1893:1931" ph="{...}" />
+            <marker date="1544798819786" expanded="false" signature="6:200" ph="..." />
+            <marker date="1544798819786" expanded="true" signature="216:2593" ph="{...}" />
+            <marker date="1544798819786" expanded="true" signature="248:2591" ph="{...}" />
+            <marker date="1544798819786" expanded="true" signature="292:720" ph="{...}" />
+            <marker date="1544798819786" expanded="false" signature="405:468" ph="{...}" />
+            <marker date="1544798819786" expanded="false" signature="971:2064" ph="{...}" />
+            <marker date="1544798819786" expanded="true" signature="994:1956" ph="{...}" />
+            <marker date="1544798819786" expanded="true" signature="1979:2017" ph="{...}" />
+            <marker date="1544798819786" expanded="true" signature="2067:2203" ph="/* --------------------------------------------------------------------------------------- ... */" />
+            <marker date="1544798819786" expanded="true" signature="2251:2540" ph="{...}" />
+            <marker date="1544798819786" expanded="true" signature="2391:2514" ph="{...}" />
           </folding>
         </state>
       </provider>

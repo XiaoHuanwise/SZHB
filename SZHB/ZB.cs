@@ -3,6 +3,7 @@ using System.Collections.Specialized;
 using System.IO;
 using System.Linq;
 using System.Net;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Text.RegularExpressions;
 
@@ -16,13 +17,17 @@ namespace SZHB
 			if (ret == "读取数据包失败")
 			{
 				Console.WriteLine("读取数据包错误！！！");
+				goto Print;
 			}//检查是否出错
 			//截取数据包的zh_CN部分-----------------
 			ret = ret.Remove(0, ret.Length - 445);
 			ret = ret.Remove(ret.Length - 4, 3);
 			//------------------------------------
 			
+			Print:
 			Console.WriteLine(ret);//输出检查
+			Division(ret);
+			
 			return;
 		}
 		
@@ -63,6 +68,19 @@ namespace SZHB
 		}
 		//---------------------------------------------------------------------------------------
 		
-		
+		//分割数据部分---------------------------------
+		private static string[] Division(string rate)
+		{
+			string[] rerate = new string[5], keyword = {"\"CC\":", "\"CA\":", "CWV\":", "\"XC\":", "SDT\":"};
+			
+			for (int i = 0; i < 5; i++)
+			{
+				rerate[i] = rate.Substring(rate.IndexOf(keyword[i]) + 5, 18);
+				Console.WriteLine(keyword[i] + rerate[i]);
+			}
+			
+			return rerate;
+		}
+		//-------------------------------------------
 	}
 }
