@@ -40,26 +40,6 @@
       <HintPath>..\packages\Dapper.1.50.5\lib\net451\Dapper.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DotnetSpider.Core, Version=3.0.8.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\packages\DotnetSpider.Core.3.0.8\lib\net451\DotnetSpider.Core.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="DotnetSpider.Downloader, Version=3.0.8.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\packages\DotnetSpider.Downloader.3.0.8\lib\net451\DotnetSpider.Downloader.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="DotnetSpider.Extraction, Version=3.0.8.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\packages\DotnetSpider.Extraction.3.0.8\lib\net451\DotnetSpider.Extraction.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="DotnetSpider.HtmlAgilityPack.Css, Version=3.0.6.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\packages\DotnetSpider.HtmlAgilityPack.Css.3.0.6\lib\net451\DotnetSpider.HtmlAgilityPack.Css.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="DotnetSpider.Proxy, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\packages\DotnetSpider.Proxy.3.0.0\lib\net45\DotnetSpider.Proxy.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
     <Reference Include="HtmlAgilityPack, Version=1.8.8.0, Culture=neutral, PublicKeyToken=bd319b19eaf3b43a">
       <HintPath>..\packages\HtmlAgilityPack.1.8.8\lib\Net45\HtmlAgilityPack.dll</HintPath>
       <Private>True</Private>
