@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="857396e1-0c84-4692-bb76-8139fb521cee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SZHB/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SZHB/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SZHB/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SZHB/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SZHB/ZB.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SZHB/ZB.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SZHB/bin/Debug/SZHB.exe" beforeDir="false" afterPath="$PROJECT_DIR$/SZHB/bin/Debug/SZHB.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SZHB/bin/Debug/SZHB.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SZHB/bin/Debug/SZHB.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SZHB/obj/Debug/SZHB.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SZHB/obj/Debug/SZHB.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SZHB/obj/Debug/SZHB.exe" beforeDir="false" afterPath="$PROJECT_DIR$/SZHB/obj/Debug/SZHB.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SZHB/obj/Debug/SZHB.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SZHB/obj/Debug/SZHB.pdb" afterDir="false" />
     </list>
@@ -47,6 +49,25 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-466292708">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="975" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="975" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -55,12 +76,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="1" selection-start-line="1" selection-end-line="1" />
-              <folding>
-                <marker date="1544679000511" expanded="true" signature="52:569" ph="{...}" />
-                <marker date="1544679000511" expanded="true" signature="107:404" ph="{...}" />
-                <marker date="1544679000511" expanded="true" signature="135:331" ph="{...}" />
-                <marker date="1544679000511" expanded="true" signature="446:566" ph="{...}" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -68,20 +83,43 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SZHB/ZB.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="78" column="47" selection-start-line="78" selection-start-column="47" selection-end-line="78" selection-end-column="47" />
+            <state relative-caret-position="494">
+              <caret line="48" column="24" lean-forward="true" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
               <folding>
-                <marker date="1544798819786" expanded="false" signature="6:200" ph="..." />
-                <marker date="1544798819786" expanded="true" signature="216:2593" ph="{...}" />
-                <marker date="1544798819786" expanded="true" signature="248:2591" ph="{...}" />
-                <marker date="1544798819786" expanded="true" signature="292:720" ph="{...}" />
-                <marker date="1544798819786" expanded="false" signature="405:468" ph="{...}" />
-                <marker date="1544798819786" expanded="false" signature="971:2064" ph="{...}" />
-                <marker date="1544798819786" expanded="true" signature="994:1956" ph="{...}" />
-                <marker date="1544798819786" expanded="true" signature="1979:2017" ph="{...}" />
-                <marker date="1544798819786" expanded="true" signature="2067:2203" ph="/* --------------------------------------------------------------------------------------- ... */" />
-                <marker date="1544798819786" expanded="true" signature="2251:2540" ph="{...}" />
-                <marker date="1544798819786" expanded="true" signature="2391:2514" ph="{...}" />
+                <marker date="1544888583114" expanded="true" signature="6:249" ph="..." />
+                <marker date="1544888583114" expanded="true" signature="265:4941" ph="{...}" />
+                <marker date="1544888583114" expanded="true" signature="297:4939" ph="{...}" />
+                <marker date="1544888583114" expanded="true" signature="341:2204" ph="{...}" />
+                <marker date="1544888583114" expanded="true" signature="448:471" ph="/* HEAD0: ... */" />
+                <marker date="1544888583114" expanded="false" signature="502:547" ph="{...}" />
+                <marker date="1544888583114" expanded="true" signature="866:2168" ph="{...}" />
+                <marker date="1544888583114" expanded="true" signature="982:1087" ph="{...}" />
+                <marker date="1544888583114" expanded="true" signature="994:1066" ph="/* Console.WriteLine(&quot;读取数据包错误！！！&quot;); ... */" />
+                <marker date="1544888583114" expanded="true" signature="1228:1319" ph="/* ------------------------------------ ... */" />
+                <marker date="1544888583114" expanded="false" signature="1419:1478" ph="{...}" />
+                <marker date="1544888583114" expanded="false" signature="1522:1971" ph="{...}" />
+                <marker date="1544888583114" expanded="true" signature="1547:1751" ph="{...}" />
+                <marker date="1544888583114" expanded="true" signature="1571:1609" ph="{...}" />
+                <marker date="1544888583114" expanded="true" signature="1620:1658" ph="{...}" />
+                <marker date="1544888583114" expanded="true" signature="1675:1705" ph="{...}" />
+                <marker date="1544888583114" expanded="true" signature="1716:1744" ph="{...}" />
+                <marker date="1544888583114" expanded="true" signature="1761:1965" ph="{...}" />
+                <marker date="1544888583114" expanded="true" signature="1785:1823" ph="{...}" />
+                <marker date="1544888583114" expanded="true" signature="1834:1872" ph="{...}" />
+                <marker date="1544888583114" expanded="true" signature="1889:1919" ph="{...}" />
+                <marker date="1544888583114" expanded="true" signature="1930:1958" ph="{...}" />
+                <marker date="1544888583114" expanded="true" signature="2124:2163" ph="/* Delay(35); ... */" />
+                <marker date="1544888583114" expanded="true" signature="2455:3615" ph="{...}" />
+                <marker date="1544888583114" expanded="true" signature="2478:3507" ph="{...}" />
+                <marker date="1544888583114" expanded="true" signature="3530:3568" ph="{...}" />
+                <marker date="1544888583114" expanded="true" signature="3618:3759" ph="/* --------------------------------------------------------------------------------------- ... */" />
+                <marker date="1544888583114" expanded="false" signature="3807:4119" ph="{...}" />
+                <marker date="1544888583114" expanded="true" signature="3952:4093" ph="{...}" />
+                <marker date="1544888583114" expanded="true" signature="4122:4229" ph="/* ------------------------------------------------ ... */" />
+                <marker date="1544888583114" expanded="false" signature="4282:4574" ph="{...}" />
+                <marker date="1544888583114" expanded="true" signature="4415:4553" ph="{...}" />
+                <marker date="1544888583114" expanded="true" signature="4577:4679" ph="/* ----------------------------------------------------- ... */" />
+                <marker date="1544888583114" expanded="false" signature="4721:4889" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -114,11 +152,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="223" />
-    <option name="y" value="9" />
-    <option name="width" value="1400" />
-    <option name="height" value="820" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -126,6 +163,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -133,22 +171,11 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="SZHB" type="24d0babc:SolutionExplorerModelNode" />
             </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="SZHB" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Search" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="SZHB" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="SZHB" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -225,6 +252,7 @@
       <updated>1544625011125</updated>
       <workItem from="1544625014890" duration="12361000" />
       <workItem from="1544781949106" duration="2764000" />
+      <workItem from="1544881525011" duration="7075000" />
     </task>
     <task id="LOCAL-00001" summary="添加了打开术语翻译网站和多网站选项的功能">
       <created>1544678860052</created>
@@ -258,7 +286,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15125000" />
+    <option name="totallyTimeSpent" value="22200000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -270,27 +298,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="223" y="9" width="1400" height="820" extended-state="0" />
-    <editor active="true" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25373134" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14660831" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329927" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32894737" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
       <window_info anchor="bottom" id="NuGet" order="7" weight="0.329927" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unit Tests" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" weight="0.32894737" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32894737" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="14" weight="0.329927" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.32894737" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -331,31 +358,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <marker date="1544679000511" expanded="true" signature="52:569" ph="{...}" />
-            <marker date="1544679000511" expanded="true" signature="107:404" ph="{...}" />
-            <marker date="1544679000511" expanded="true" signature="135:331" ph="{...}" />
-            <marker date="1544679000511" expanded="true" signature="446:566" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SZHB/ZB.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="78" column="47" selection-start-line="78" selection-start-column="47" selection-end-line="78" selection-end-column="47" />
+        <state relative-caret-position="494">
+          <caret line="48" column="24" lean-forward="true" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
           <folding>
-            <marker date="1544798819786" expanded="false" signature="6:200" ph="..." />
-            <marker date="1544798819786" expanded="true" signature="216:2593" ph="{...}" />
-            <marker date="1544798819786" expanded="true" signature="248:2591" ph="{...}" />
-            <marker date="1544798819786" expanded="true" signature="292:720" ph="{...}" />
-            <marker date="1544798819786" expanded="false" signature="405:468" ph="{...}" />
-            <marker date="1544798819786" expanded="false" signature="971:2064" ph="{...}" />
-            <marker date="1544798819786" expanded="true" signature="994:1956" ph="{...}" />
-            <marker date="1544798819786" expanded="true" signature="1979:2017" ph="{...}" />
-            <marker date="1544798819786" expanded="true" signature="2067:2203" ph="/* --------------------------------------------------------------------------------------- ... */" />
-            <marker date="1544798819786" expanded="true" signature="2251:2540" ph="{...}" />
-            <marker date="1544798819786" expanded="true" signature="2391:2514" ph="{...}" />
+            <marker date="1544888583114" expanded="true" signature="6:249" ph="..." />
+            <marker date="1544888583114" expanded="true" signature="265:4941" ph="{...}" />
+            <marker date="1544888583114" expanded="true" signature="297:4939" ph="{...}" />
+            <marker date="1544888583114" expanded="true" signature="341:2204" ph="{...}" />
+            <marker date="1544888583114" expanded="true" signature="448:471" ph="/* HEAD0: ... */" />
+            <marker date="1544888583114" expanded="false" signature="502:547" ph="{...}" />
+            <marker date="1544888583114" expanded="true" signature="866:2168" ph="{...}" />
+            <marker date="1544888583114" expanded="true" signature="982:1087" ph="{...}" />
+            <marker date="1544888583114" expanded="true" signature="994:1066" ph="/* Console.WriteLine(&quot;读取数据包错误！！！&quot;); ... */" />
+            <marker date="1544888583114" expanded="true" signature="1228:1319" ph="/* ------------------------------------ ... */" />
+            <marker date="1544888583114" expanded="false" signature="1419:1478" ph="{...}" />
+            <marker date="1544888583114" expanded="false" signature="1522:1971" ph="{...}" />
+            <marker date="1544888583114" expanded="true" signature="1547:1751" ph="{...}" />
+            <marker date="1544888583114" expanded="true" signature="1571:1609" ph="{...}" />
+            <marker date="1544888583114" expanded="true" signature="1620:1658" ph="{...}" />
+            <marker date="1544888583114" expanded="true" signature="1675:1705" ph="{...}" />
+            <marker date="1544888583114" expanded="true" signature="1716:1744" ph="{...}" />
+            <marker date="1544888583114" expanded="true" signature="1761:1965" ph="{...}" />
+            <marker date="1544888583114" expanded="true" signature="1785:1823" ph="{...}" />
+            <marker date="1544888583114" expanded="true" signature="1834:1872" ph="{...}" />
+            <marker date="1544888583114" expanded="true" signature="1889:1919" ph="{...}" />
+            <marker date="1544888583114" expanded="true" signature="1930:1958" ph="{...}" />
+            <marker date="1544888583114" expanded="true" signature="2124:2163" ph="/* Delay(35); ... */" />
+            <marker date="1544888583114" expanded="true" signature="2455:3615" ph="{...}" />
+            <marker date="1544888583114" expanded="true" signature="2478:3507" ph="{...}" />
+            <marker date="1544888583114" expanded="true" signature="3530:3568" ph="{...}" />
+            <marker date="1544888583114" expanded="true" signature="3618:3759" ph="/* --------------------------------------------------------------------------------------- ... */" />
+            <marker date="1544888583114" expanded="false" signature="3807:4119" ph="{...}" />
+            <marker date="1544888583114" expanded="true" signature="3952:4093" ph="{...}" />
+            <marker date="1544888583114" expanded="true" signature="4122:4229" ph="/* ------------------------------------------------ ... */" />
+            <marker date="1544888583114" expanded="false" signature="4282:4574" ph="{...}" />
+            <marker date="1544888583114" expanded="true" signature="4415:4553" ph="{...}" />
+            <marker date="1544888583114" expanded="true" signature="4577:4679" ph="/* ----------------------------------------------------- ... */" />
+            <marker date="1544888583114" expanded="false" signature="4721:4889" ph="{...}" />
           </folding>
         </state>
       </provider>
